@@ -18,3 +18,4 @@ o	For protecting the privacy of the user the dimensionality of the data can be r
 o	A more trustworthy source must be taken which double-check the data, at least for training the model.
 o	We can make the model simple and interpretable so that when the scammer adapts to it with just some tweaks we can have a new model up and running to deploy.
 
+Dataset Link: https://drive.google.com/file/d/1wE6VMSQlBGWoRRTCAMhZSlkBmh62eUDv/view?usp=sharing
